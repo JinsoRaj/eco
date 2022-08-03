@@ -10828,12 +10828,12 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: black;
+  background-color: #031704;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: gray;
+  background-color: black;
   border-color: green;
 }
 
@@ -18625,12 +18625,12 @@ html {
   mask-image: url("../images/banner-bg.svg");
   /* background-repeat-y: no-repeat;  */
   /* background-position: 0 -50px; */
-  padding-top: 152px;
+  padding-top: 131px;
 }
 
 @media (max-width: 991px) {
   .home {
-    padding-top: 68px;
+    padding-top: 74px;
   }
 }
 
