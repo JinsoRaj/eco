@@ -10828,14 +10828,13 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #1998ff;
-  border-color: #1998ff;
+  background-color: black;
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #0085f2;
-  border-color: #007ee5;
+  background-color: gray;
+  border-color: green;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
@@ -18444,7 +18443,7 @@ h6, .h6 {
 }
 
 .navbar .navbar-brand img {
-  width: 200px;
+  width: 160px;
 }
 
 @media (max-width: 991px) {
